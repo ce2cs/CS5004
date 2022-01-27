@@ -1,0 +1,6 @@
+2 % 3: 2 (basic situation)
+0 % 3: 0 (0 % any integer other than 0 is 0)
+3 % 3: 0 (3 / 3 = 1, the remains is 3 - 1 * 3 = 0)
+-2 % 3: -2 (-2 / 3 = 0, the remains is -2 - (0 * 3) = -2)
+2 % -3: 2 (2 / -3 = 0, the remains is 2 - (0 * -3) = 2)
+-2 % -3: -2 (-2 / -3 = 0, the remains is -2 - (0 * -3) = -2)
